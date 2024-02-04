@@ -1,4 +1,4 @@
-name : Upload website to s39
+name : Upload website to s390
 
 on:
   push:
